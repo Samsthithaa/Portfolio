@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Health Research Data Analyst",
+    "section": "",
+    "text": "I work at the intersection of public health, health research, and data analysis.\nMy focus is on: - Clinical and public health data analysis - Health data visualization using R - Evidence generation for health and Ayush research\n\n\n\nAnalyze large health datasets (NFHS, NSSO, HMIS)\nTranslate data into meaningful public health insights\nCreate clear, interpretable visualizations for research and policy\n\n👉 View my projects to see my work."
+  },
+  {
+    "objectID": "index.html#hi-im-samsthithaa",
+    "href": "index.html#hi-im-samsthithaa",
+    "title": "Health Research Data Analyst",
+    "section": "",
+    "text": "I work at the intersection of public health, health research, and data analysis.\nMy focus is on: - Clinical and public health data analysis - Health data visualization using R - Evidence generation for health and Ayush research\n\n\n\nAnalyze large health datasets (NFHS, NSSO, HMIS)\nTranslate data into meaningful public health insights\nCreate clear, interpretable visualizations for research and policy\n\n👉 View my projects to see my work."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Research question:\nWho uses AYUSH services in India, and what are the socioeconomic patterns?\nData: NSSO 79th Round\nTools: R, ggplot2\n\n\n\nAYUSH utilization varies by residence and education\nClear regional differences were observed\n\n📊 [View analysis on GitHub]"
+  },
+  {
+    "objectID": "projects.html#ayush-utilization-in-india-nsso-79th-round",
+    "href": "projects.html#ayush-utilization-in-india-nsso-79th-round",
+    "title": "Projects",
+    "section": "",
+    "text": "Research question:\nWho uses AYUSH services in India, and what are the socioeconomic patterns?\nData: NSSO 79th Round\nTools: R, ggplot2\n\n\n\nAYUSH utilization varies by residence and education\nClear regional differences were observed\n\n📊 [View analysis on GitHub]"
+  },
+  {
+    "objectID": "projects.html#visualization-urbanrural-health-differences",
+    "href": "projects.html#visualization-urbanrural-health-differences",
+    "title": "Projects",
+    "section": "Visualization: Urban–Rural Health Differences",
+    "text": "Visualization: Urban–Rural Health Differences\nA visualization-focused project exploring disparities in health service use.\n📈 Tools: ggplot2\n🎯 Focus: storytelling with data\n[View project →]"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a public health professional with training in AYUSH systems and a strong interest in health research and data-driven evidence generation.\nMy work focuses on: - Analyzing clinical and population-level health data - Supporting research through robust analysis and visualization - Bridging traditional medicine research with modern public health methods\nI am currently building a portfolio of health data analysis projects and exploring opportunities in research and applied public health analytics."
+  }
+]

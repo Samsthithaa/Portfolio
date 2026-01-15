@@ -1,0 +1,20 @@
+---
+title: "Health Research Data Analyst"
+---
+
+## Hi, I’m Samsthithaa 👋
+
+I work at the intersection of **public health, health research, and data analysis**.
+
+My focus is on:
+- Clinical and public health data analysis
+- Health data visualization using R
+- Evidence generation for health and Ayush  research
+
+### What I do
+
+- Analyze large health datasets (NFHS, NSSO, HMIS)
+- Translate data into meaningful public health insights
+- Create clear, interpretable visualizations for research and policy
+
+👉 View my projects to see my work.

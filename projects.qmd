@@ -1,0 +1,28 @@
+---
+title: "Projects"
+---
+
+## AYUSH Utilization in India (NSSO 79th Round)
+
+**Research question:**  
+Who uses AYUSH services in India, and what are the socioeconomic patterns?
+
+**Data:** NSSO 79th Round  
+**Tools:** R, ggplot2
+
+### Key findings
+- AYUSH utilization varies by residence and education
+- Clear regional differences were observed
+
+📊 [View analysis on GitHub]
+
+---
+
+## Visualization: Urban–Rural Health Differences
+
+A visualization-focused project exploring disparities in health service use.
+
+📈 Tools: ggplot2  
+🎯 Focus: storytelling with data
+
+ [View project →]

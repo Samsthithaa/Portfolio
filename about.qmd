@@ -1,0 +1,12 @@
+---
+title: "About Me"
+---
+
+I am a public health professional with training in AYUSH systems and a strong interest in **health research and data-driven evidence generation**.
+
+My work focuses on:
+- Analyzing clinical and population-level health data
+- Supporting research through robust analysis and visualization
+- Bridging traditional medicine research with modern public health methods
+
+I am currently building a portfolio of health data analysis projects and exploring opportunities in research and applied public health analytics.
